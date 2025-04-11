@@ -15,10 +15,17 @@ try out the model and see if it predicts right or wrong.
 - NumPy (for building NN from scratch)
 - Gradio (for web interface)
 
+## Dataset
+
+The MNIST dataset, for simplicity.
+
+- 60'000 training images
+- 10'000 test images
+
 
 ## 📈 Current Progress
 
-- [ ] Data to use
+- [X] Data to use
 - [ ] Implement the Neural Network
 - [ ] Hyperparameter Tuning
 - [ ] Deploy model
